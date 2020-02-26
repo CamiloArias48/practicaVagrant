@@ -3,3 +3,4 @@ ubuntu-xenial-16.04-cloudimg-console.log
 servidorWeb/.vagrant/*
 modifyVM/.vagrant/*
 modifyAndServer/.vagrant/*
+paginaHTML/.vagrant/*
